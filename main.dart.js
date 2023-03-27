@@ -61115,8 +61115,8 @@ $S:373}
 A.XF.prototype={
 $1(a){var s=null,r=this.a,q=t.w,p=r.P(q).f,o=a.b,n=r.P(q).f.a.gnZ(),m=a.e,l=r.P(q).f,k=a.c,j=r.P(q).f.a.gnZ(),i=a.e,h=a.w,g=r.P(q).f.a.gnZ(),f=a.e
 q=r.P(q).f.a.gnZ()
-r=a.e
-return A.a_k(s,A.ag5(A.kv(A.i7(B.L,A.a([A.a5x("asset/svg/bag.svg",s,s),A.ws(a.x,B.Nx,s,r*0.1)],t.E),B.am),g*(f*0.05),q*(r*0.05)),new A.r4(h/360,t.ME)),s,s,p.a.a*o-n*(m*0.025),s,l.a.b*k-j*(i*0.025),s)},
+r=a.e*0.1
+return A.a_k(s,A.ag5(A.kv(A.i7(B.L,A.a([A.a5x("asset/svg/bag.svg",s,s),A.ws(a.x,B.Nx,s,r)],t.E),B.am),g*(f*0.1),q*r),new A.r4(h/360,t.ME)),s,s,p.a.a*o-n*(m*0.05),s,l.a.b*k-j*(i*0.05),s)},
 $S:374}
 A.ml.prototype={
 aK(){return new A.LL(B.cE,A.a([],t.HZ),A.a([],t.cF),B.n)}}
