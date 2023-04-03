@@ -1,29 +1,9 @@
 {
   "wastes": [
     {
-      "bin": "garbage",
-      "name": "Black Plastic Container",
-      "path": "black_plastic_container"
-    },
-    {
-      "bin": "garbage",
-      "name": "Blister Pack",
-      "path": "blister_pack"
-    },
-    {
-      "bin": "garbage",
-      "name": "Broken Dish",
-      "path": "broken_dish"
-    },
-    {
-      "bin": "garbage",
-      "name": "Hot Drink Cup",
-      "path": "hot_drink_cup"
-    },
-    {
-      "bin": "garbage",
-      "name": "Soiled Paper Napkin",
-      "path": "paper_napkin"
+      "bin": "organics",
+      "name": "Diaper",
+      "path": "diaper"
     },
     {
       "bin": "organics",
@@ -52,8 +32,8 @@
     },
     {
       "bin": "recycling",
-      "name": "Food Can",
-      "path": "food_can"
+      "name": "Aluminum Can",
+      "path": "aluminum_can"
     },
     {
       "bin": "recycling",
@@ -69,6 +49,11 @@
       "bin": "recycling",
       "name": "Plastic Bag",
       "path": "plastic_bag"
+    },
+    {
+      "bin": "recycling",
+      "name": "Steel Can",
+      "path": "steel_can"
     },
     {
       "bin": "recycling",
