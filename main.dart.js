@@ -68078,7 +68078,7 @@ p=t.N
 g=q.c=A.anO(new A.Fr("sub-c-887ac1cc-e8cb-4282-87ef-4d17cd57c1e3",new A.JV(g),"pub-c-e9ac4af0-4c78-45be-9dd2-2ebcf9d89aee",A.A(p,t.z)))
 o=g.a.i(0,null)
 n=A.a([],t.Yz)
-m=new A.a0Y(g,new A.Ue(g,o,"6cooger3v28ba3xr02h7sl413n3nob"),o,n,B.mb,100)
+m=new A.a0Y(g,new A.Ue(g,o,"exhibition"),o,n,B.mb,100)
 case 2:if(!(g=n.length,B.e.b_(g,100)===0)){s=3
 break}s=4
 return A.ae(m.pr(),$async$rW)
@@ -68090,7 +68090,7 @@ i.D_(j)
 q.D9(i)
 q.aq()}A.hX("CONNECTED")
 g=q.c
-p=A.cF(["6cooger3v28ba3xr02h7sl413n3nob"],p)
+p=A.cF(["exhibition"],p)
 o=g.a.i(0,null)
 n=g.a35$
 if(!n.a1(0,o)){l=new A.FJ(o,A.aV(t.AU))
@@ -68113,7 +68113,7 @@ if(!n.gR(n).t()){n=q.c
 p=Date.now()
 o=q.d
 Date.now()
-n.pF("6cooger3v28ba3xr02h7sl413n3nob",A.aZ(["date",p,"id",o,"index",a,"score",b],t.N,t.z))}return A.a8(null,r)}})
+n.pF("exhibition",A.aZ(["date",p,"id",o,"index",a,"score",b],t.N,t.z))}return A.a8(null,r)}})
 return A.a9($async$AH,r)},
 D9(a){var s=this.b
 s.push(a)
